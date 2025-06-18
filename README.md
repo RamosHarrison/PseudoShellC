@@ -28,7 +28,7 @@ GCC compiler
 
 Steps to Compile and Run:
 Clone the repository:
-git clone https://github.com/yourusername/pseudo-shell-in-c.git
+git clone https://github.com/RamosHarrison/pseudo-shell-in-c.git
 cd pseudo-shell-in-c
 
 Compile code:
